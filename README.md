@@ -2,7 +2,7 @@
 <h3 align="center">Informatics @ TUM - Research direction in Computer Vision and Graphics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netbeifeng&label=Profile%20views&color=0e75b6&style=flat" alt="netbeifeng" /> 
-<img src="https://img.shields.io/badge/-Luo Chang-0A66C2?logo=LinkedIn&logoColor=white&style=flat" alt="netbeifeng" /> </p>
+<a href="https://www.linkedin.com/in/chang-luo-76896b239/"><img src="https://img.shields.io/badge/-Luo Chang-0A66C2?logo=LinkedIn&logoColor=white&style=flat" alt="netbeifeng" /></a> </p>
 
 - 🔭 I’m currently concentrating on **Computer Vision**
 
