@@ -12,11 +12,15 @@
 
 
 <p align="left">
+  
 <h3 align="left">Connection</h3>
+
 ![NintendoSwitch](https://img.shields.io/badge/-SW_2647_1681_0316-e60012?logo=Nintendo%20Switch&logoColor=white&style=flat)
 ![Discord](https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat)
 ![Zhihu](https://img.shields.io/badge/-Alias-0084FF?logo=Zhihu&logoColor=white&style=flat)
+
 <h3 align="left">Languages</h3>
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ed8b00?logo=CoffeeScript&logoColor=white&style=flat)
