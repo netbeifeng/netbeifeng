@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chang Luo</h1>
-<h3 align="center">Informatics @ TUM - Main Specialization in Computer Vision and Computer Graphics</h3>
+<h3 align="center">Informatics @ TUM - Research direction in Computer Vision and Graphics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netbeifeng&label=Profile%20views&color=0e75b6&style=flat" alt="netbeifeng" /> </p>
 
@@ -8,16 +8,12 @@
 - 📫 **chang.luo@tum.de**
 </p>
 
-
-
-
 <p align="left">
   
-<h3 align="left">Connection</h3>
+<h3 align="left">Play with me</h3>
 
 ![NintendoSwitch](https://img.shields.io/badge/-SW_2647_1681_0316-e60012?logo=Nintendo%20Switch&logoColor=white&style=flat)
 ![Discord](https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat)
-![Zhihu](https://img.shields.io/badge/-Alias-0084FF?logo=Zhihu&logoColor=white&style=flat)
 
 <h3 align="left">Languages</h3>
 
