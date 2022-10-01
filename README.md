@@ -21,7 +21,6 @@
 <h3 align="left">Computer Vision and Graphics</h3>
 
 ![OpenGL](https://img.shields.io/badge/-OpenGL-52829f?logo=OpenGL&logoColor=white&style=flat)
-
 ![OpenCV](https://img.shields.io/badge/-OpenCV-33b6db?logo=opencv&logoColor=white&style=flat)
 
 <h3 align="left">Deep Learning</h3>
@@ -31,13 +30,9 @@
 <h3 align="left">Web</h3>
 
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=Angular&logoColor=white&style=flat)
-
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-319795?logo=CSharp&logoColor=white&style=flat)
-
 ![Django](https://img.shields.io/badge/-Django-092d1f?logo=Django&logoColor=white&style=flat)
-
 ![OpenLayers](https://img.shields.io/badge/-Openlayers-1F6B75?logo=Openlayers&logoColor=white&style=flat)
 
 </p>
