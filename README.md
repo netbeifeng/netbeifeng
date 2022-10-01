@@ -42,6 +42,7 @@
 ![OpenLayers](https://img.shields.io/badge/-Openlayers-1F6B75?logo=Openlayers&logoColor=white&style=flat)
 
 <h3 align="left">Functional Programming</h3>
+
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=Ocaml&logoColor=white&style=flat)
 
 </p>
