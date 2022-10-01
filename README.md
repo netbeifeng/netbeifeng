@@ -6,20 +6,16 @@
 - 🔭 I’m currently concentrating on **Computer Vision**
 
 - 📫 **chang.luo@tum.de**
+</p>
 
 <h3 align="left">Languages</h3>
 <p align="left">
 
 ![C](https://img.shields.io/badge/-C-00599c?logo=C&logoColor=white&style=flat)
-  
 ![C++](https://img.shields.io/badge/-C++-239120?logo=c%2B%2B&logoColor=white&style=flat)
-  
 ![Java](https://img.shields.io/badge/-Java-ed8b00?logo=CoffeeScript&logoColor=white&style=flat)
-  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
-  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
-  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=CSharp&logoColor=white&style=flat)
 
 <h3 align="left">Computer Vision and Graphics</h3>
@@ -43,7 +39,6 @@
 ![Django](https://img.shields.io/badge/-Django-092d1f?logo=Django&logoColor=white&style=flat)
 
 ![OpenLayers](https://img.shields.io/badge/-Openlayers-1F6B75?logo=Openlayers&logoColor=white&style=flat)
-
 
 </p>
 
