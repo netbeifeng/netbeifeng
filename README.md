@@ -15,8 +15,8 @@
 
 ![NintendoSwitch](https://img.shields.io/badge/-SW_2647_1681_0316-e60012?logo=Nintendo%20Switch&logoColor=white&style=flat)
 ![PlayStation](https://img.shields.io/badge/-netbeifeng-003791?logo=PlayStation&logoColor=white&style=flat)
-![Steam](https://img.shields.io/badge/-321771674-171a21?logo=Steam&logoColor=white&style=flat)
-![Discord](https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat)
+<a href="https://steamcommunity.com/id/alias9/"><img src="https://img.shields.io/badge/-Alias-171a21?logo=Steam&logoColor=white&style=flat" alt="steam"/></a>
+<a href="https://discord.gg"><img src="https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat" alt="discord"/></a>
 
 <h3 align="left">Languages</h3>
 
