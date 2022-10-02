@@ -49,7 +49,7 @@
 
 <h3 align="left">Game Developing</h3>
 
-![OCaml](https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=white&style=flat)
+![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=black&style=flat)
 
 </p>
 
