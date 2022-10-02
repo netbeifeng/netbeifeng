@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-ed8b00?logo=CoffeeScript&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=f7cc41&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=gray&style=flat)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=CSharp&logoColor=white&style=flat)
 
 <h3 align="left">Computer Vision and Graphics</h3>
