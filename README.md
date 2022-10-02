@@ -2,7 +2,7 @@
 <h3 align="center">Informatics @ TUM - Research direction in Computer Vision and Graphics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=netbeifeng&label=Profile%20views&color=0e75b6&style=flat" alt="netbeifeng" /> 
-<a href="https://www.linkedin.com/in/chang-luo-76896b239/"><img src="https://img.shields.io/badge/-Luo Chang-0A66C2?logo=LinkedIn&logoColor=white&style=flat" alt="netbeifeng" /></a> </p>
+<a href="https://www.linkedin.com/in/chang-luo-76896b239/"><img src="https://img.shields.io/badge/-Luo Chang-0A66C2?logo=LinkedIn&logoColor=white&style=flat" alt="netbeifeng" /></a> <a href="mailto:chang.luo@tum.de"><img src="https://img.shields.io/badge/-chang.luo@tum.de-0065bd?logo=gmail&logoColor=white&style=flat" alt="netbeifeng"/></a> </p>
 
 - 🔭 I’m currently concentrating on **Computer Vision**
 
@@ -15,6 +15,7 @@
 
 ![NintendoSwitch](https://img.shields.io/badge/-SW_2647_1681_0316-e60012?logo=Nintendo%20Switch&logoColor=white&style=flat)
 ![Discord](https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat)
+![Steam](https://img.shields.io/badge/-321771674-000000?logo=Steam&logoColor=white&style=flat)
 
 <h3 align="left">Languages</h3>
 
@@ -45,6 +46,10 @@
 <h3 align="left">Functional Programming</h3>
 
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?logo=Ocaml&logoColor=white&style=flat)
+
+<h3 align="left">Game Developing</h3>
+
+![OCaml](https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=white&style=flat)
 
 </p>
 
