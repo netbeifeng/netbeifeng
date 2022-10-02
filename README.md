@@ -14,9 +14,10 @@
 <h3 align="left">Play with me</h3>
 
 ![NintendoSwitch](https://img.shields.io/badge/-SW_2647_1681_0316-e60012?logo=Nintendo%20Switch&logoColor=white&style=flat)
-![Discord](https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat)
-![Steam](https://img.shields.io/badge/-321771674-171a21?logo=Steam&logoColor=white&style=flat)
 ![PlayStation](https://img.shields.io/badge/-netbeifeng-003791?logo=PlayStation&logoColor=white&style=flat)
+![Steam](https://img.shields.io/badge/-321771674-171a21?logo=Steam&logoColor=white&style=flat)
+![Discord](https://img.shields.io/badge/-Alias%238226-5865F2?logo=discord&logoColor=white&style=flat)
+
 <h3 align="left">Languages</h3>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=C&logoColor=white&style=flat)
